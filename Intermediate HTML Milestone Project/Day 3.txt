@@ -1,0 +1,1 @@
+class selector for text align and color 

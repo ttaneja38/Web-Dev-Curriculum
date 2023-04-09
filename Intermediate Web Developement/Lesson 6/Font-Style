@@ -1,0 +1,16 @@
+<html>
+<head>
+  <title>My Website</title>
+</head>
+
+<body>
+  <style> 
+    p{font-style:normal;}
+    /*p{font-style:italic;}*/
+    /*p{font-style:oblique;}*/
+  </style>
+  <h1>The font-style</h1>
+  <p>This is a paragraph in normal style</p>
+
+</body>
+</html>

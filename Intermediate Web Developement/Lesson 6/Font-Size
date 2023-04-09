@@ -1,0 +1,19 @@
+<html>
+
+<head>
+  <title>My Website</title>
+</head>
+<body>
+  <style>
+    h1{background-color:blueviolet;}
+    p{color:blue;
+      font-family:Arial, Papyrus, Helvetica, sans-serif;
+      font-style:normal;
+      font-sixe:30px;
+      }
+  </style>
+  <h1>Welcome</h1>
+  <p>I will be sharing my programming journey on this website every Saturday at 5pm EST. If you would like to see what I'm up to, please read about my journey!</p>
+</body>
+
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>My Website</title>
+</head>
+<body>
+  <style>
+    h1{background-color:blueviolet;}
+    p{color:blue; font-family:"Lucida Handwriting", Arial, Helvetica, sans-serif}
+  </style>
+  <h1>Welcome</h1>
+  <p>I will share my programming journey on this website every Saturday at 5pm EST. If you would like to see what I'm up to, please read about my journey!</p>
+</body>
+
+</html>

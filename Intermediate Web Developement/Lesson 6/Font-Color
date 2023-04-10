@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>My Website</title>
+</head>
+<body>
+  <style>
+    h1{color:orange;}
+    p{color:blue;)
+  </style>
+  <h1>FONT-COLOR</h1>
+  <p>We can write weird looking sentences in whatever color we like all using color!!</p>
+</body>
+
+</html>
